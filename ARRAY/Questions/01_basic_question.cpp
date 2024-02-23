@@ -27,6 +27,10 @@ void double_elements(int arr[], int arr_size){
     print_array(arr,arr_size);
 }
 
+// Ques 2:
+void func_name(int arr[], int size){
+
+}
 
 int main(){
 
@@ -40,11 +44,11 @@ int main(){
     print_array(arr,arr_size);
 
 
-    // Ques 1: Double all the elemnts of array
-    double_elements(arr,arr_size);
+    // // Ques 1: Double all the elemnts of array
+    // double_elements(arr,arr_size);
    
 
-
+    // Ques 2: 
 
 
 
